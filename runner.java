@@ -15,7 +15,7 @@ public class runner{ // main runner class for the program (sneha +surya)
         storyGeneration print = new storyGeneration();
         String printer = print.storyGen(adjective, noun, exclamation, ingVerb, pluralNoun, pastVerb, place);
         // print final story result
-        System.out.println(print);
+        System.out.println(printer);
         
     }
     
